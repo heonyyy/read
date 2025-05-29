@@ -30,3 +30,9 @@ readme작성방법
 - [ ] 체크리스트1
 - [x] 체크리스트 2
 
+### 이미지넣기
+![Image](https://github.com/user-attachments/assets/29335039-26c9-409d-8c55-d7a6d7b6c56e)
+<img src="https://github.com/user-attachments/assets/29335039-26c9-409d-8c55-d7a6d7b6c56e" style = "width: 500px" />
+
+### 링크 적용
+- [my github connect](https://github.com/heonyyy/read/edit/main/README.md)
